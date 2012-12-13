@@ -13,4 +13,5 @@ Gem::Specification.new do |s|
  s.homepage    = "http://github.com/anand9/comedy"
  s.files       = Dir.glob("lib/**/*.rb")
  s.add_dependency('launchy', '2.0.5')
+ s.add_dependency('mechanize', '2.5.1')
 end
