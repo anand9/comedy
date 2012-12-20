@@ -1,0 +1,3 @@
+puts 'searching for the best LoL ;)'
+require 'comedy'
+Comedy.laugh_with(ARGV[0])
