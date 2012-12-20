@@ -34,8 +34,8 @@ This will open a random funny video of Bean from youtube in your browser
 
 ![Laugh with comedy ](http://i.imgur.com/BrGrF.jpg)
 
-Thanks to, 
-----
+*Thanks to,* 
+
 [soorajB](https://github.com/soorajb)
 [srih4ri](https://github.com/srih4ri)
 [Shajin](https://github.com/codesavvy)
