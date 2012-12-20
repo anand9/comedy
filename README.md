@@ -33,8 +33,10 @@ Comedy.laugh_with("whatyoulike")
 This will open a random funny video of Bean from youtube in your browser
 
 ![Laugh with comedy ](http://i.imgur.com/BrGrF.jpg)
+Image courtesy [Funny Shit](https://www.facebook.com/kuyilcorp) 
 
-*Thanks to,* 
+Thanks to,
+----
 
 [soorajB](https://github.com/soorajb)
 [srih4ri](https://github.com/srih4ri)
