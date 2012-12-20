@@ -1,8 +1,8 @@
 Comedy
 =======
 
-Ruby gem to make you laugh, a stress buster ;) 
---------------
+**Ruby gem to make you laugh, a stress buster ;)**
+
 This gem will open a random funny video of your interest from youtube in your browser
 
 Usage
