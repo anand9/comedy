@@ -45,5 +45,7 @@ Thanks to,
 [Shajin](https://github.com/codesavvy)
 
 
+*Inspired from [xxx](https://github.com/qoobaa/xxx)*
+
 LoL ;)
  
