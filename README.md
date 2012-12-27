@@ -28,6 +28,9 @@ Also watch from your irb
 require 'rubygems'
 require 'comedy'
 Comedy.laugh_with("whatyoulike")
+
+#if you want to get only the comedy url
+Comedy.search("whatyoulike")
 ```
 
 This will open a random funny video of Bean from youtube in your browser
